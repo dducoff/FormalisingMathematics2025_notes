@@ -1,13 +1,9 @@
-# FormalisingMathematics2025_notes
+# FormalisingMathematics2025_annotations
 
-## GitHub configuration
+This repository stores lean source files and other resourses created while studying the Lean language, with tutoring provided by Gemini 3.
 
-To set up your new GitHub repository, follow these steps:
+The lean source files stored here are derived from Mr. Bhavik Mehta's 2025 course on [Formalising Mathematics in Lean](https://github.com/b-mehta/formalising-mathematics-notes). 
 
-* Under your repository name, click **Settings**.
-* In the **Actions** section of the sidebar, click "General".
-* Check the box **Allow GitHub Actions to create and approve pull requests**.
-* Click the **Pages** section of the settings sidebar.
-* In the **Source** dropdown menu, select "GitHub Actions".
+- Videos that annotate these source files are available on the [Lean Notes YouTube channel](https://www.youtube.com/@Lean_Notes_BDFL)
+- Additional learning resources are available on the [Lean Notes wiki website](https://leannotes.wiki)
 
-After following the steps above, you can remove this section from the README file.
