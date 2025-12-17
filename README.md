@@ -1,4 +1,4 @@
-# FormalisingMathematics2025_annotated
+# FormalisingMathematics2025_notes
 
 ## GitHub configuration
 
